@@ -18,7 +18,8 @@ I'm passionate about creating innovative web solutions. My journey began in e-co
 You'll find me lifting weights, diving into a good book, or exploring new technologies.
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zsolt98/)
-[![Personal Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://zsn.guru/)
+**[LinkedIn](https://www.linkedin.com/in/zsolt98/)**
 
-**Open for work and collaboration - Feel free to reach out!** 📧 zsolt.nagy998@gmail.com
+**[Personal Website](https://zsn.guru/)**
+
+**Open for work and collaboration - Feel free to reach out!** 📧 **zsolt.nagy998@gmail.com**
