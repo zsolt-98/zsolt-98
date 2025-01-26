@@ -6,7 +6,7 @@
 
 
 ### About Me
-I'm passionate about creating innovative web solutions. My journey began in e-commerce, managing Shopify websites and optimizing Meta Ads and Google Ads campaigns, which sparked my love for web development. Through this hands-on experience, I discovered my true passion for web development. This spark drove me to immerse myself in coding, and I transformed my career into frontend development where I now create innovative web solutions.
+My journey began in e-commerce, managing Shopify websites and optimizing Meta Ads and Google Ads campaigns. Through this hands-on experience, I discovered my true passion for web development. This spark drove me to immerse myself in coding, and I transformed my career into frontend development where I now create innovative web solutions.
 
 ### 💻 Tech Stack
 <p>
