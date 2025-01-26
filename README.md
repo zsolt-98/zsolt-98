@@ -1,3 +1,5 @@
+![Cover photo](https://media.licdn.com/dms/image/v2/D4D16AQGS_J3fMd70CA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737634377120?e=1743638400&v=beta&t=rzoaQjtcB_skFKUJkb56qdUxJKOaSqmNndVB2zRZMlk)
+
 # Hello! I'm Zsolt 👋
 
 ## 🚀 A frontend developer based in Subotica, Serbia.
