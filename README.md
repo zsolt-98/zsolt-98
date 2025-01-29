@@ -10,7 +10,7 @@ My journey began in e-commerce, managing Shopify websites and optimizing Meta Ad
 
 ### 💻 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,sass,git,figma,postgresql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,sass,postgresql,git,figma" />
 </p>
 
 ### 🌟 Featured Project
