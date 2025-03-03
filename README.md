@@ -16,7 +16,7 @@ My journey began in e-commerce, managing Shopify websites and optimizing Meta Ad
   #### Backend:
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   
-  #### Miscellaneous
+  #### Miscellaneous:
   <img src="https://skillicons.dev/icons?i=postgresql,git,figma" />
 
 
