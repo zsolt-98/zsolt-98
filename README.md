@@ -14,10 +14,10 @@ My journey began in e-commerce, managing Shopify websites and optimizing Meta Ad
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,sass" />
   
   #### Backend:
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
   
   #### Miscellaneous:
-  <img src="https://skillicons.dev/icons?i=postgresql,git,figma" />
+  <img src="https://skillicons.dev/icons?i=git,figma" />
 
 
 ### 🌟 Featured Project
