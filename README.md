@@ -9,9 +9,16 @@
 My journey began in e-commerce, managing Shopify websites and optimizing Meta Ads and Google Ads campaigns. Through this hands-on experience, I discovered my true passion for web development. This spark drove me to immerse myself in coding, and I transformed my career into frontend development where I now create innovative web solutions.
 
 ### 💻 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,sass,postgresql,git,figma" />
-</p>
+
+  #### Frontend:
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,sass" />
+  
+  #### Backend:
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  
+  #### Miscellaneous
+  <img src="https://skillicons.dev/icons?i=postgresql,git,figma" />
+
 
 ### 🌟 Featured Project
 **[Yourney](https://github.com/zsolt-98/yourney-bootstrap)** - A premium car rental web application showcasing modern frontend development techniques.
