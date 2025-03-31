@@ -20,7 +20,9 @@ My journey began in e-commerce, managing Shopify websites and optimizing Meta Ad
   <img src="https://skillicons.dev/icons?i=git,figma" />
 
 
-### 🌟 Featured Project
+### 🌟 Featured Projects
+**[Pomegrenade](https://github.com/zsolt-98/Pomegrenade)** - A lightweight and simple calorie counter built with MERN stack.
+
 **[Yourney](https://github.com/zsolt-98/yourney-bootstrap)** - A premium car rental web application showcasing modern frontend development techniques.
 
 ### 🏋️ When I'm Not Coding
