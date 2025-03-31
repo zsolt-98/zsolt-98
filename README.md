@@ -1,12 +1,12 @@
-![Cover photo](https://media.licdn.com/dms/image/v2/D4D16AQGS_J3fMd70CA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737634377120?e=1743638400&v=beta&t=rzoaQjtcB_skFKUJkb56qdUxJKOaSqmNndVB2zRZMlk)
+![Cover photo](https://media.licdn.com/dms/image/v2/D4E16AQGyP5pX-dTTkQ/profile-displaybackgroundimage-shrink_350_1400/B4EZXsphw1H0AY-/0/1743432064911?e=1749081600&v=beta&t=XTPoL2mGz6Y1fNdJEj_39WJeeJjs4XcXwF2IEot_IS8)
 
 # Hello! I'm Zsolt 👋
 
-## 🚀 A frontend developer based in Subotica, Serbia.
+## 🚀 A full stack (MERN) developer based in Subotica, Serbia.
 
 
 ### About Me
-My journey began in e-commerce, managing Shopify websites and optimizing Meta Ads and Google Ads campaigns. Through this hands-on experience, I discovered my true passion for web development. This spark drove me to immerse myself in coding, and I transformed my career into frontend development where I now create innovative web solutions.
+My journey began in e-commerce, managing Shopify websites and optimizing Meta Ads and Google Ads campaigns. Through this experience, I discovered my true passion lies in web development, which drove me to start learning to code full-time.
 
 ### 💻 Tech Stack
 
