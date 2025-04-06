@@ -2,7 +2,7 @@
 
 # Hello! I'm Zsolt 👋
 
-## 🚀 A full stack (MERN) developer based in Subotica, Serbia.
+## 🚀 A full stack developer based in Subotica, Serbia.
 
 
 ### About Me
