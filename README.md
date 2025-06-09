@@ -1,4 +1,4 @@
-![Cover photo](https://media.licdn.com/dms/image/v2/D4E16AQGyP5pX-dTTkQ/profile-displaybackgroundimage-shrink_350_1400/B4EZXsphw1H0AY-/0/1743432064911?e=1749081600&v=beta&t=XTPoL2mGz6Y1fNdJEj_39WJeeJjs4XcXwF2IEot_IS8)
+![Cover photo](https://media.licdn.com/dms/image/v2/D4E16AQF28wGi2fldZQ/profile-displaybackgroundimage-shrink_350_1400/B4EZdQNcRdG4AY-/0/1749397391645?e=1755129600&v=beta&t=1fODRFX1EX1iD_JEvJoeTn9YPI20aD5B6vnyyPJpZ3Q)
 
 # Hello! I'm Zsolt 👋
 
