@@ -8,14 +8,17 @@ My journey began in e-commerce, managing Shopify websites and optimizing Meta Ad
 
 ### 💻 Tech Stack
 
+  #### Languages:
+  <img src="https://skillicons.dev/icons?i=js,ts,py,bash" />
+
   #### Frontend:
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,sass" />
   
   #### Backend:
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,sqlite,prisma" />
   
   #### Miscellaneous:
-  <img src="https://skillicons.dev/icons?i=git,figma" />
+  <img src="https://skillicons.dev/icons?i=git,docker,gcp,azure,linux,neovim,postman,figma" />
 
 ### 🏋️ When I'm Not Coding
 You'll find me lifting weights, diving into a good book, or exploring new technologies.
