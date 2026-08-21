@@ -4,7 +4,7 @@
 
 
 ### About Me
-My journey began in e-commerce, managing Shopify websites and optimizing Meta Ads and Google Ads campaigns. Through this experience, I discovered my true passion lies in web development, which drove me to start learning to code full-time.
+I design, architect and scale full stack web applications end-to-end.
 
 ### 💻 Tech Stack
 
