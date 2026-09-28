@@ -18,7 +18,7 @@ I design, architect and scale full stack web applications end-to-end.
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,sqlite,prisma" />
   
   #### Miscellaneous:
-  <img src="https://skillicons.dev/icons?i=git,docker,gcp,azure,linux,neovim,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,docker,gcp,azure,linux,figma" />
 
 ### 🏋️ When I'm Not Coding
 You'll find me lifting weights, diving into a good book, or exploring new technologies.
